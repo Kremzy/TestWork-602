@@ -1,0 +1,492 @@
+[14-Jul-2022 09:40:24 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[14-Jul-2022 14:16:46 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 244
+[14-Jul-2022 14:16:46 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 244
+[14-Jul-2022 14:16:46 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 244
+[14-Jul-2022 14:16:46 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 244
+[14-Jul-2022 14:16:46 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 244
+[14-Jul-2022 14:21:41 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 248
+[14-Jul-2022 14:21:41 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 248
+[14-Jul-2022 14:21:41 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 248
+[14-Jul-2022 14:21:41 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 248
+[14-Jul-2022 14:21:41 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 248
+[14-Jul-2022 14:22:56 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:22:56 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:22:56 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:22:56 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:22:56 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:03 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:03 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:03 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:03 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:03 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:39 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:39 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:39 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:39 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:39 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:47 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:47 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:47 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:47 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:23:47 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:24:10 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:24:10 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:24:10 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:24:10 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:24:10 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 254
+[14-Jul-2022 14:24:43 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 252
+[14-Jul-2022 14:24:43 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 252
+[14-Jul-2022 14:24:43 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 252
+[14-Jul-2022 14:24:43 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 252
+[14-Jul-2022 14:24:43 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 252
+[14-Jul-2022 14:30:02 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 278
+[14-Jul-2022 14:30:02 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 278
+[14-Jul-2022 14:30:02 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 278
+[14-Jul-2022 14:30:02 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 278
+[14-Jul-2022 14:30:02 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 278
+[14-Jul-2022 14:30:25 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 278
+[14-Jul-2022 14:30:25 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 278
+[14-Jul-2022 14:30:25 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 278
+[14-Jul-2022 14:30:25 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 278
+[14-Jul-2022 14:30:25 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 278
+[14-Jul-2022 14:31:52 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:31:52 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:31:52 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:31:52 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:31:52 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:35:32 UTC] PHP Parse error:  syntax error, unexpected ''.$product_thumbnail[url].'' (T_CONSTANT_ENCAPSED_STRING) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:35:33 UTC] PHP Parse error:  syntax error, unexpected ''.$product_thumbnail[url].'' (T_CONSTANT_ENCAPSED_STRING) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:36:06 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:36:06 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:36:06 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:36:06 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:36:06 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:36:16 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:36:16 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:36:16 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:36:16 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:36:16 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:07 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:07 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:07 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:07 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:07 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:17 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:17 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:17 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:17 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:17 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:35 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:35 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:35 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:35 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:35 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:43 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:43 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:43 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:43 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:43 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:46 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:46 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:46 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:46 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:37:46 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:38:33 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:38:33 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:38:33 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:38:33 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:38:33 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 272
+[14-Jul-2022 14:39:15 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 271
+[14-Jul-2022 14:39:15 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 271
+[14-Jul-2022 14:39:16 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 271
+[14-Jul-2022 14:39:16 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 271
+[14-Jul-2022 14:39:16 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 271
+[14-Jul-2022 14:39:47 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 271
+[14-Jul-2022 14:39:47 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 271
+[14-Jul-2022 14:39:47 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 271
+[14-Jul-2022 14:39:47 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 271
+[14-Jul-2022 14:39:47 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 271
+[14-Jul-2022 14:40:23 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:40:23 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:40:23 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:40:23 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:40:23 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:40:56 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:40:56 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:40:56 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:40:56 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:40:56 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:40:59 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:40:59 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:40:59 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:40:59 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:40:59 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:41:23 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:41:23 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:41:23 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:41:23 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:41:23 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 277
+[14-Jul-2022 14:42:45 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 268
+[14-Jul-2022 14:42:45 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 268
+[14-Jul-2022 14:42:45 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 268
+[14-Jul-2022 14:42:45 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 268
+[14-Jul-2022 14:42:45 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 268
+[14-Jul-2022 14:43:09 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 268
+[14-Jul-2022 14:43:09 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 268
+[14-Jul-2022 14:43:09 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 268
+[14-Jul-2022 14:43:09 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 268
+[14-Jul-2022 14:43:09 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 268
+[14-Jul-2022 14:49:53 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 245
+[14-Jul-2022 14:52:43 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 245
+[14-Jul-2022 14:54:16 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 246
+[14-Jul-2022 14:54:24 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 246
+[14-Jul-2022 14:54:24 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 246
+[14-Jul-2022 14:54:25 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 246
+[14-Jul-2022 14:54:26 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 246
+[14-Jul-2022 14:54:28 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 246
+[14-Jul-2022 15:02:33 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 246
+[14-Jul-2022 15:03:15 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 246
+[14-Jul-2022 15:05:50 UTC] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 246
+[14-Jul-2022 15:34:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 260
+[14-Jul-2022 15:34:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 260
+[14-Jul-2022 15:34:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 260
+[14-Jul-2022 15:34:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 260
+[14-Jul-2022 15:34:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 260
+[14-Jul-2022 15:38:42 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home1/kremzy/public_html/test/wp-includes/wp-db.php on line 1509
+[14-Jul-2022 16:30:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function clear_custom_fields_button_trigger(), 1 passed in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 307 and exactly 2 expected in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(307): clear_custom_fields_button_trigger(33)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-form-functions.php(141): do_action('acf/save_post', 33)
+#4 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/forms/form-post.php(323): acf_save_post(33)
+#5 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): ACF_Form_Post->save_post(33, Object(WP_Post))
+#6 /home1/kremzy/public_html/test/wp- in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 16:31:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function clear_custom_fields_button_trigger(), 1 passed in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 307 and exactly 2 expected in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(307): clear_custom_fields_button_trigger(33)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-form-functions.php(141): do_action('acf/save_post', 33)
+#4 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/forms/form-post.php(323): acf_save_post(33)
+#5 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): ACF_Form_Post->save_post(33, Object(WP_Post))
+#6 /home1/kremzy/public_html/test/wp- in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 16:32:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function clear_custom_fields_button_trigger(), 1 passed in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 307 and exactly 2 expected in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(307): clear_custom_fields_button_trigger(33)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-form-functions.php(141): do_action('acf/save_post', 33)
+#4 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/forms/form-post.php(323): acf_save_post(33)
+#5 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): ACF_Form_Post->save_post(33, Object(WP_Post))
+#6 /home1/kremzy/public_html/test/wp- in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 16:34:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function clear_custom_fields_button_trigger(), 1 passed in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 307 and exactly 2 expected in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(307): clear_custom_fields_button_trigger(33)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-form-functions.php(141): do_action('acf/save_post', 33)
+#4 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/forms/form-post.php(323): acf_save_post(33)
+#5 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): ACF_Form_Post->save_post(33, Object(WP_Post))
+#6 /home1/kremzy/public_html/test/wp- in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 16:36:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function clear_custom_fields_button_trigger(), 1 passed in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 307 and exactly 2 expected in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(307): clear_custom_fields_button_trigger(33)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-form-functions.php(141): do_action('acf/save_post', 33)
+#4 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/forms/form-post.php(323): acf_save_post(33)
+#5 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): ACF_Form_Post->save_post(33, Object(WP_Post))
+#6 /home1/kremzy/public_html/test/wp- in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 16:36:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function clear_custom_fields_button_trigger(), 1 passed in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 307 and exactly 2 expected in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(307): clear_custom_fields_button_trigger(33)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-form-functions.php(141): do_action('acf/save_post', 33)
+#4 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/forms/form-post.php(323): acf_save_post(33)
+#5 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): ACF_Form_Post->save_post(33, Object(WP_Post))
+#6 /home1/kremzy/public_html/test/wp- in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 16:38:39 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 16:38:40 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 16:38:40 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 16:38:41 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 17:01:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:01:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:01:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:01:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:01:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:01:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:01:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:01:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:01:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:01:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-admin/admin-header.php on line 9
+[14-Jul-2022 17:01:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:01:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:01:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:01:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:01:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:01:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:01:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:02:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:02:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:02:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:02:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:02:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:02:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:02:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:259) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:02:44 UTC] PHP Parse error:  syntax error, unexpected '1111' (T_LNUMBER), expecting ';' or ',' in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 261
+[14-Jul-2022 17:03:00 UTC] PHP Parse error:  syntax error, unexpected '1111' (T_LNUMBER), expecting ';' or ',' in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 261
+[14-Jul-2022 17:03:07 UTC] PHP Parse error:  syntax error, unexpected '1111' (T_LNUMBER), expecting ';' or ',' in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 261
+[14-Jul-2022 17:03:07 UTC] PHP Parse error:  syntax error, unexpected '1111' (T_LNUMBER), expecting ';' or ',' in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 261
+[14-Jul-2022 17:03:08 UTC] PHP Parse error:  syntax error, unexpected '1111' (T_LNUMBER), expecting ';' or ',' in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 261
+[14-Jul-2022 17:03:09 UTC] PHP Parse error:  syntax error, unexpected '1111' (T_LNUMBER), expecting ';' or ',' in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 261
+[14-Jul-2022 17:03:55 UTC] PHP Parse error:  syntax error, unexpected '1111' (T_LNUMBER), expecting ';' or ',' in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 260
+[14-Jul-2022 17:03:56 UTC] PHP Parse error:  syntax error, unexpected '1111' (T_LNUMBER), expecting ';' or ',' in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 260
+[14-Jul-2022 17:04:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:04:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:04:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-admin/admin-header.php on line 9
+[14-Jul-2022 17:04:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:04:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:04:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:04:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:04:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:04:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:04:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:05:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:05:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:05:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:05:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:05:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:05:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:05:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:07:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:07:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:07:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:07:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:07:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:07:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:07:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:09:07 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function clear_custom_fields_button_trigger(), 1 passed in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 307 and exactly 2 expected in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(307): clear_custom_fields_button_trigger(33)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-form-functions.php(141): do_action('acf/save_post', 33)
+#4 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/forms/form-post.php(323): acf_save_post(33)
+#5 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): ACF_Form_Post->save_post(33, Object(WP_Post))
+#6 /home1/kremzy/public_html/test/wp- in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 17:09:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function clear_custom_fields_button_trigger(), 1 passed in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 307 and exactly 2 expected in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(307): clear_custom_fields_button_trigger(33)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-form-functions.php(141): do_action('acf/save_post', 33)
+#4 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/forms/form-post.php(323): acf_save_post(33)
+#5 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): ACF_Form_Post->save_post(33, Object(WP_Post))
+#6 /home1/kremzy/public_html/test/wp- in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 17:09:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function clear_custom_fields_button_trigger(), 1 passed in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 307 and exactly 2 expected in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(307): clear_custom_fields_button_trigger(33)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-form-functions.php(141): do_action('acf/save_post', 33)
+#4 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/forms/form-post.php(323): acf_save_post(33)
+#5 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): ACF_Form_Post->save_post(33, Object(WP_Post))
+#6 /home1/kremzy/public_html/test/wp- in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 17:10:07 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function clear_custom_fields_button_trigger(), 1 passed in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 307 and exactly 2 expected in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(307): clear_custom_fields_button_trigger(33)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-form-functions.php(141): do_action('acf/save_post', 33)
+#4 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/forms/form-post.php(323): acf_save_post(33)
+#5 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): ACF_Form_Post->save_post(33, Object(WP_Post))
+#6 /home1/kremzy/public_html/test/wp- in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 17:12:27 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to clear_custom_fields_button_trigger() must be of the type int, string given, called in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 309 and defined in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): clear_custom_fields_button_trigger('frequent', 33, Array)
+#1 /home1/kremzy/public_html/test/wp-includes/plugin.php(191): WP_Hook->apply_filters('frequent', Array)
+#2 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-value-functions.php(216): apply_filters('acf/update_valu...', 'frequent', 33, Array, 'frequent')
+#3 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-value-functions.php(261): acf_update_value('frequent', 33, Array)
+#4 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-form-functions.php(163): acf_update_values(Array, 33)
+#5 /hom in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 17:14:19 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to clear_custom_fields_button_trigger() must be of the type int, string given, called in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 309 and defined in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): clear_custom_fields_button_trigger('rare', 33, Array)
+#1 /home1/kremzy/public_html/test/wp-includes/plugin.php(191): WP_Hook->apply_filters('rare', Array)
+#2 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-value-functions.php(216): apply_filters('acf/update_valu...', 'rare', 33, Array, 'rare')
+#3 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-value-functions.php(261): acf_update_value('rare', 33, Array)
+#4 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-form-functions.php(163): acf_update_values(Array, 33)
+#5 /home1/kremzy/public_htm in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 17:20:02 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to clear_custom_fields_button_trigger() must be of the type int, string given, called in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 309 and defined in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): clear_custom_fields_button_trigger('rare')
+#1 /home1/kremzy/public_html/test/wp-includes/plugin.php(191): WP_Hook->apply_filters('rare', Array)
+#2 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-value-functions.php(216): apply_filters('acf/update_valu...', 'rare', 33, Array, 'rare')
+#3 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-value-functions.php(261): acf_update_value('rare', 33, Array)
+#4 /home1/kremzy/public_html/test/wp-content/plugins/advanced-custom-fields/includes/acf-form-functions.php(163): acf_update_values(Array, 33)
+#5 /home1/kremzy/public_html/test/wp-i in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[14-Jul-2022 17:29:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:29:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:29:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:29:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:29:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:29:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:29:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:29:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:29:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:29:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-header.php on line 9
+[14-Jul-2022 17:29:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:29:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:29:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:29:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:29:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:29:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:29:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:29:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:29:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:29:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:29:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:29:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:29:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:29:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:29:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/ajax-actions.php on line 3030
+[14-Jul-2022 17:29:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/ajax-actions.php on line 3031
+[14-Jul-2022 17:29:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:29:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:29:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:29:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:29:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:29:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:29:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/ajax-actions.php on line 3030
+[14-Jul-2022 17:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/ajax-actions.php on line 3031
+[14-Jul-2022 17:29:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:29:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:29:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-header.php on line 9
+[14-Jul-2022 17:29:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:29:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:29:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:29:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:29:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:29:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:29:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:29:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:29:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:29:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:29:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:29:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:29:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:29:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:29:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/ajax-actions.php on line 3030
+[14-Jul-2022 17:29:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/ajax-actions.php on line 3031
+[14-Jul-2022 17:30:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:30:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:30:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:30:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:30:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:30:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:30:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:30:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:30:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:30:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:30:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:30:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:30:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:30:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:279) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-admin/admin-header.php on line 9
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[14-Jul-2022 17:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:288) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[15-Jul-2022 11:55:29 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to custom_update_button_trigger() must be an instance of WP_Post, int given, called in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 309 and defined in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): custom_update_button_trigger(27)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-includes/post.php(4662): do_action('save_post_produ...', 27, Object(WP_Post), true)
+#4 /home1/kremzy/public_html/test/wp-includes/post.php(4775): wp_insert_post(Array, false, true)
+#5 /home1/kremzy/public_html/test/wp-admin/includes/post.php(426): wp_update_post(Array)
+#6 /home1/kremzy/public_html/test/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[15-Jul-2022 11:55:33 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to custom_update_button_trigger() must be an instance of WP_Post, int given, called in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 309 and defined in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): custom_update_button_trigger(27)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-includes/post.php(4662): do_action('save_post_produ...', 27, Object(WP_Post), true)
+#4 /home1/kremzy/public_html/test/wp-includes/post.php(4775): wp_insert_post(Array, false, true)
+#5 /home1/kremzy/public_html/test/wp-admin/includes/post.php(426): wp_update_post(Array)
+#6 /home1/kremzy/public_html/test/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[15-Jul-2022 11:56:03 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to custom_update_button_trigger() must be an instance of WP_Post, int given, called in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 309 and defined in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): custom_update_button_trigger(27)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-includes/post.php(4662): do_action('save_post_produ...', 27, Object(WP_Post), true)
+#4 /home1/kremzy/public_html/test/wp-includes/post.php(4775): wp_insert_post(Array, false, true)
+#5 /home1/kremzy/public_html/test/wp-admin/includes/post.php(426): wp_update_post(Array)
+#6 /home1/kremzy/public_html/test/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[15-Jul-2022 11:56:27 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to custom_update_button_trigger() must be an instance of WP_Post, int given, called in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 309 and defined in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(309): custom_update_button_trigger(27)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-includes/post.php(4662): do_action('save_post_produ...', 27, Object(WP_Post), true)
+#4 /home1/kremzy/public_html/test/wp-includes/post.php(4775): wp_insert_post(Array, false, true)
+#5 /home1/kremzy/public_html/test/wp-admin/includes/post.php(426): wp_update_post(Array)
+#6 /home1/kremzy/public_html/test/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[15-Jul-2022 11:59:09 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to custom_update_button_trigger() must be an instance of WP_Post, int given, called in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 307 and defined in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:258
+Stack trace:
+#0 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(307): custom_update_button_trigger(27, Object(WP_Post), true)
+#1 /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /home1/kremzy/public_html/test/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home1/kremzy/public_html/test/wp-includes/post.php(4662): do_action('save_post_produ...', 27, Object(WP_Post), true)
+#4 /home1/kremzy/public_html/test/wp-includes/post.php(4775): wp_insert_post(Array, false, true)
+#5 /home1/kremzy/public_html/test/wp-admin/includes/post.php(426): wp_update_post(Array)
+#6 /home1/kremzy/public_html/test/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 258
+[15-Jul-2022 13:53:23 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/kremzy/public_html/test/wp-content/themes/test/functions.php on line 143
+[16-Jul-2022 07:59:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:294) in /home1/kremzy/public_html/test/wp-includes/http.php on line 493
+[16-Jul-2022 07:59:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:294) in /home1/kremzy/public_html/test/wp-includes/http.php on line 494
+[16-Jul-2022 07:59:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:294) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 27
+[16-Jul-2022 07:59:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:294) in /home1/kremzy/public_html/test/wp-admin/admin-ajax.php on line 28
+[16-Jul-2022 07:59:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:294) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6764
+[16-Jul-2022 07:59:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:294) in /home1/kremzy/public_html/test/wp-admin/includes/misc.php on line 1381
+[16-Jul-2022 07:59:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kremzy/public_html/test/wp-content/themes/test/functions.php:294) in /home1/kremzy/public_html/test/wp-includes/functions.php on line 6878
+[16-Jul-2022 08:00:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'post_edit_form_tag' not found or invalid function name in /home1/kremzy/public_html/test/wp-includes/class-wp-hook.php on line 307
